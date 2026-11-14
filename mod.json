@@ -1,0 +1,14 @@
+{
+  "name": "Faster Movement",
+  "folder": "phantombladezero_fastermovement",
+  "author": "Kintaro",
+  "version": "1.1",
+  "description": "The player walks, runs and sprints faster: x2 by default, 0.5 to 3, with separate jog and sprint speeds, sprint modes (hold, toggle, auto, always) and a boat speed. A PBZModLoader mod; settings in a text file in its folder, or on its Mods Menu page.",
+  "kind": "pbzmodloader",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "modsPath": "ProjectPBZ\\PBZModLoader\\mods",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "pbzmodloader": "2.1.0"
+}

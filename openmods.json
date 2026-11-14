@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Faster Movement",
+  "summary": "The player walks, runs and sprints faster (x2 by default), with jog, sprint and boat speeds and sprint modes. A PBZModLoader mod, live settings.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["gameplay", "quality-of-life"],
+  "requires": ["PBZModLoader (tested with 2.1.0)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.png"
+}

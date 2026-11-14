@@ -1,0 +1,10 @@
+; Faster Movement settings. Change a value and save; the game picks it up within 2 seconds.
+; Speed: 0.5 to 3, how fast you walk, run and sprint (1 = the game's own, 2 = twice as fast).
+; Jog, Sprint: Same (as Speed) or 0.5 to 3, a speed of their own for running and sprinting.
+; SprintMode: Hold (the game's own), Toggle (press sprint while moving to keep sprinting until you press it again or stop), Auto (out of combat you sprint whenever you move), or Always (Auto in combat too).
+; Boat: 0.5 to 2, how fast the boat you steer goes (1 = the game's own).
+Speed=2
+Jog=Same
+Sprint=Same
+SprintMode=Hold
+Boat=1
