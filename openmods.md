@@ -18,7 +18,7 @@ the save: the speed is a timed effect on top of your stock values, so with the m
 
 ## Screenshots
 
-![Faster Movement](docs/cover.png)
+![Faster Movement](docs/cover.webp)
 
 ## How to install
 
